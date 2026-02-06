@@ -1,0 +1,24 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "lamda",
+         "type": "string",
+         "value": "(300/433)*1000"
+      },
+      {
+         "name": "R",
+         "type": "string",
+         "value": "1.64/2"
+      },
+      {
+         "name": "C",
+         "type": "float",
+         "value": -6.0
+      }
+   ],
+   "outputVariables": []
+}

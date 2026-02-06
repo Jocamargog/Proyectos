@@ -1,0 +1,13 @@
+{
+   "Author": "USUARIO",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "22,560",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:yagi433mhz.cst?30c28ba26c19719d36e13e810371297f?24480:numberofparameters=5:port=1>mode=1>zre=0>zim=0:::c?dipol?r?reflec?lamda",
+   "ProjectVersion": "'# MWS Version: Version 2024.4 - Apr 30 2024 - ACIS 33.0.1 - Learning Edition",
+   "Results": "Time Domain: S-Parameter",
+   "Version": "3"
+}

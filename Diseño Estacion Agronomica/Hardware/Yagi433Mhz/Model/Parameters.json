@@ -1,0 +1,35 @@
+{
+    "parameters": [
+        {
+            "descr": "Largo Reflector",
+            "expr": "lamda/2",
+            "name": "Reflec",
+            "value": "346.420323325635"
+        },
+        {
+            "descr": "Longitud de onda",
+            "expr": "(300/433)*1000",
+            "name": "lamda",
+            "value": "692.84064665127"
+        },
+        {
+            "descr": "Largo Dipolo",
+            "expr": "0.95*(lamda/2)",
+            "name": "Dipol",
+            "value": "329.099307159353"
+        },
+        {
+            "descr": "Radio alambre",
+            "expr": "1.64/2",
+            "name": "R",
+            "value": "0.82"
+        },
+        {
+            "descr": "Constante",
+            "expr": "-6",
+            "name": "C",
+            "value": "-6"
+        }
+    ],
+    "version": 1
+}

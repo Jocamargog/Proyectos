@@ -1,0 +1,42 @@
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Reflector")
+          .SetMeshType "All" 
+          .Set "Transform", "1", "0", "0", "0", "6.12323e-17", "-1", "0", "1", "6.12323e-17" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Dipolo")
+          .SetMeshType "All" 
+          .Set "Transform", "1", "0", "0", "0", "6.12323e-17", "-1", "0", "1", "6.12323e-17" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Director1")
+          .SetMeshType "All" 
+          .Set "Transform", "1", "0", "0", "0", "6.12323e-17", "-1", "0", "1", "6.12323e-17" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Director2")
+          .SetMeshType "All" 
+          .Set "Transform", "1", "0", "0", "0", "6.12323e-17", "-1", "0", "1", "6.12323e-17" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Dipolo3")
+          .SetMeshType "All" 
+          .Set "Transform", "1", "0", "0", "0", "6.12323e-17", "-1", "0", "1", "6.12323e-17" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Director4")
+          .SetMeshType "All" 
+          .Set "Transform", "1", "0", "0", "0", "6.12323e-17", "-1", "0", "1", "6.12323e-17" 
+     End With
+End With
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Director5")
+          .SetMeshType "All" 
+          .Set "Transform", "1", "0", "0", "0", "6.12323e-17", "-1", "0", "1", "6.12323e-17" 
+     End With
+End With
